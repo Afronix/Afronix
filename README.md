@@ -2,7 +2,7 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&color=87CEFA&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+friends)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000000000000000&pause=100000000000000000000000&color=87CEFA&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+friends)](https://git.io/typing-svg)
 
 
 
