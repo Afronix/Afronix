@@ -1,3 +1,5 @@
+<lottie-player src="https://lottie.host/embed/868e077f-2702-4184-9223-b373220eb123/aG3oE8SBk6.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
+
 ### Olá! Bem Vindo 👋🏾
 ![Afronix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afronix&show_icons=true&theme=transparent)
 
