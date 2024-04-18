@@ -1,6 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
 ### Olá! Bem Vindo 👋🏾
+💻🌱 Programador apaixonado, originário de uma comunidade quilombola. Minha visão é inspirada no conceito de "ubuntu", onde a colaboração e inclusão são fundamentais. Vamos codificar juntos e fazer a diferença! ✨
+
+
 ![Afronix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afronix&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afronix&layout=compact&theme=transparent)
