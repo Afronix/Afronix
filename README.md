@@ -12,11 +12,13 @@
 [![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 
-<div class="flex-container">
-    <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" height="100" width="100">
-    Que tal me doar um café?
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVkZTBnbzdyMHZrNXlwbml0b2w4ZnRhcXduc3I1bHlwd2h1aWNkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JpttR9RXNbTwoT7jAz/giphy.gif" height="20" width="20"> 0xaf2be4ebb235f86be768a478d1d05cba1cbe8441
-</div>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" height="100" width="100">
+
+##### Que tal me doar um café?
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVkZTBnbzdyMHZrNXlwbml0b2w4ZnRhcXduc3I1bHlwd2h1aWNkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JpttR9RXNbTwoT7jAz/giphy.gif" height="20" width="20">    0xaf2be4ebb235f86be768a478d1d05cba1cbe8441    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVkZTBnbzdyMHZrNXlwbml0b2w4ZnRhcXduc3I1bHlwd2h1aWNkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JpttR9RXNbTwoT7jAz/giphy.gif" height="20" width="20">
 
 
 
