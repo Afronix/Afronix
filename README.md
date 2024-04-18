@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
 ### Olá! Bem Vindo 👋🏾
 ![Afronix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afronix&show_icons=true&theme=transparent)
@@ -20,7 +20,7 @@
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVkZTBnbzdyMHZrNXlwbml0b2w4ZnRhcXduc3I1bHlwd2h1aWNkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JpttR9RXNbTwoT7jAz/giphy.gif" height="20" width="20">    0xaf2be4ebb235f86be768a478d1d05cba1cbe8441    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVkZTBnbzdyMHZrNXlwbml0b2w4ZnRhcXduc3I1bHlwd2h1aWNkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JpttR9RXNbTwoT7jAz/giphy.gif" height="20" width="20">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
 
 
 
