@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-### Olá! Bem Vindo 👋🏾
+### Olá!! Bem Vindo 👋🏾
 💻🌱 Programador apaixonado, originário de uma comunidade quilombola. Minha visão é inspirada no conceito de "ubuntu", onde a colaboração e inclusão são fundamentais. Vamos codificar juntos e fazer a diferença! ✨
 
 
